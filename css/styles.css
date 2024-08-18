@@ -3245,6 +3245,10 @@ a.bonus-text-wrapper.casino {
     .dl-list-mobile .dl-row .left-part a img {
         height: 60px !important;
     }
+
+    .new-get-bonus-button {
+        font-size: 15px !important;
+    }
 }
 
 @media (max-width: 767px) {
