@@ -2963,6 +2963,10 @@ h1 {
     font-size: 16px
 }
 
+a.bonus-text-wrapper.casino {
+    line-height: 25px !important;
+}
+
 .new-get-bonus-button.mobile {
     width: 100%;
     -webkit-box-shadow: 0 5px 7px 0 rgba(0, 0, 0, .22);
